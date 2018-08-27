@@ -25,7 +25,7 @@ SECRET_KEY = 're!v(uid%rv(n!7qp$q2t#+#8+if)m(xis^fw@5(5(f#l65=v#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['fierce-wave-26481.herokuapp.com']
+ALLOWED_HOSTS = ['.herokuapp.com']
 
 
 # Application definition
